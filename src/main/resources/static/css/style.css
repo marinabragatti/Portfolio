@@ -1,0 +1,185 @@
+#codeconSkills {
+   font-size: 20px;
+   height: auto;
+   color: white;
+   
+}
+
+.codeconSkillbar {
+   height: 30px;
+   position: relative;
+   background: #a6a6a6;
+   margin: 20px auto;
+   text-align: center;
+   border-radius: 25px;
+}
+
+.codeconSkillArea {
+   height: 50px;
+   position: absolute;
+   left: 50px;
+}
+
+.TextBeginner {
+   height: 50px;
+   position: relative;
+   left: 110px;
+}
+
+.TextAvarage {
+   height: 50px;
+   position: relative;
+   left: 160px;
+}
+
+#codeconHTML {
+    width: 30%;
+    animation: Animate-HTML 4s;
+    -webkit-animation: Animate-HTML 4s;
+    -moz-animation: Animate-HTML 4s;
+    -o-animation: Animate-HTML 4s;
+    height: 30px;
+    position: absolute;
+    background-color: #5200cc;
+    border-radius: 25px;
+    
+}
+@keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-webkit-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-moz-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-o-keyframes Animate-HTML {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}
+
+#codeconCSS {
+    width: 30%;
+    animation: Animate-HTML 4s;
+    -webkit-animation: Animate-HTML 4s;
+    -moz-animation: Animate-HTML 4s;
+    -o-animation: Animate-HTML 4s;
+    height: 30px;
+    position: absolute;
+    background-color: #5200cc;
+    border-radius: 25px;
+    
+}
+@keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-webkit-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-moz-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-o-keyframes Animate-CSS {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}
+
+#codeconCSharp {
+    width: 30%;
+    animation: Animate-HTML 4s;
+    -webkit-animation: Animate-HTML 4s;
+    -moz-animation: Animate-HTML 4s;
+    -o-animation: Animate-HTML 4s;
+    height: 30px;
+    position: absolute;
+    background-color: #5200cc;
+    border-radius: 25px;
+    
+}
+@keyframes Animate-CSharp {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-webkit-keyframes Animate-CSharp {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-moz-keyframes Animate-CSharp {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}@-o-keyframes Animate-CSharp {
+    from {
+    width: 10px;
+}
+to {
+    width: 30%}
+}
+
+#codeconJava {
+    width: 50%;
+    animation: Animate-HTML 4s;
+    -webkit-animation: Animate-HTML 4s;
+    -moz-animation: Animate-HTML 4s;
+    -o-animation: Animate-HTML 4s;
+    height: 30px;
+    position: absolute;
+    background-color: #5200cc;
+    border-radius: 25px;
+    
+}
+@keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-webkit-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-moz-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}@-o-keyframes Animate-Java {
+    from {
+    width: 10px;
+}
+to {
+    width: 50%}
+}
