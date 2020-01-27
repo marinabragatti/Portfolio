@@ -26,10 +26,16 @@
    left: 110px;
 }
 
-.TextAvarage {
+.TextAverage {
    height: 50px;
    position: relative;
-   left: 160px;
+   left: 170px;
+}
+
+.TextAdvanced {
+   height: 50px;
+   position: relative;
+   left: 420px;
 }
 
 #codeconHTML {
@@ -72,10 +78,10 @@ to {
 
 #codeconCSS {
     width: 30%;
-    animation: Animate-HTML 4s;
-    -webkit-animation: Animate-HTML 4s;
-    -moz-animation: Animate-HTML 4s;
-    -o-animation: Animate-HTML 4s;
+    animation: Animate-CSS 4s;
+    -webkit-animation: Animate-CSS 4s;
+    -moz-animation: Animate-CSS 4s;
+    -o-animation: Animate-CSS 4s;
     height: 30px;
     position: absolute;
     background-color: #5200cc;
@@ -110,10 +116,10 @@ to {
 
 #codeconCSharp {
     width: 30%;
-    animation: Animate-HTML 4s;
-    -webkit-animation: Animate-HTML 4s;
-    -moz-animation: Animate-HTML 4s;
-    -o-animation: Animate-HTML 4s;
+    animation: Animate-CSharp 4s;
+    -webkit-animation: Animate-CSharp 4s;
+    -moz-animation: Animate-CSharp 4s;
+    -o-animation: Animate-CSharp 4s;
     height: 30px;
     position: absolute;
     background-color: #5200cc;
@@ -147,11 +153,11 @@ to {
 }
 
 #codeconJava {
-    width: 50%;
-    animation: Animate-HTML 4s;
-    -webkit-animation: Animate-HTML 4s;
-    -moz-animation: Animate-HTML 4s;
-    -o-animation: Animate-HTML 4s;
+    width: 40%;
+    animation: Animate-Java 4s;
+    -webkit-animation: Animate-Java 4s;
+    -moz-animation: Animate-Java 4s;
+    -o-animation: Animate-Java 4s;
     height: 30px;
     position: absolute;
     background-color: #5200cc;
@@ -163,23 +169,61 @@ to {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 40%}
 }@-webkit-keyframes Animate-Java {
     from {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 40%}
 }@-moz-keyframes Animate-Java {
     from {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 40%}
 }@-o-keyframes Animate-Java {
     from {
     width: 10px;
 }
 to {
-    width: 50%}
+    width: 40%}
+}
+
+#codeconEnglish {
+    width: 90%;
+    animation: Animate-English 4s;
+    -webkit-animation: Animate-English 4s;
+    -moz-animation: Animate-English 4s;
+    -o-animation: Animate-English 4s;
+    height: 30px;
+    position: absolute;
+    background-color: #5200cc;
+    border-radius: 25px;
+    
+}
+@keyframes Animate-English {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-webkit-keyframes Animate-English {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-moz-keyframes Animate-English {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
+}@-o-keyframes Animate-English {
+    from {
+    width: 10px;
+}
+to {
+    width: 90%}
 }
